@@ -30,9 +30,10 @@ header {
 
 /* Style für die erste Schriftart */
 .schriftart1 {
-    font-family: 'Georgia, 'Garamond', serif'; /* Erstelle deine Schriftart hier */
-    font-size: 40px;
-    color: #700b0b; /* Optional: Textfarbe */
+    font-family: 'Copperplate', 'Papyrus', fantasy; /* Erstelle deine Schriftart hier */
+    font-size: 50px;
+    font-weight: bold;
+    color: #333; /* Optional: Textfarbe */
 }
 
 /* Style für die zweite Schriftart */
@@ -40,6 +41,7 @@ header {
     font-family: 'Copperplate', 'Papyrus', fantasy; /* Erstelle deine Schriftart hier */
     font-size: 50px;
     margin-left: 20px;
+    font-weight: bold;
     color: #333; /* Optional: Textfarbe */
 }
 
